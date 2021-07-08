@@ -1,0 +1,10 @@
+@import "reset.css";
+
+/*Components*/
+@import "components/main-header.css";
+
+body {
+  font-family: "Kopub", "맑은 고딕", "돋움", "Malgun Gothic", "Dotum", "Arial";
+  background-color: green;
+  height: 200vh;
+}
